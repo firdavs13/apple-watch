@@ -1,0 +1,18 @@
+.button{
+    margin: 0;
+    padding: 15px 20px;
+    background-color: #EA625C;
+    border-radius: 0;
+    border: none;
+    font-weight: 700;
+    color: white;
+    cursor: pointer;
+}
+
+.button:hover {
+    opacity: 0.8;
+}
+
+.button:active {
+    opacity: 1;
+}

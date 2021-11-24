@@ -1,0 +1,19 @@
+.header{
+
+    padding: 20px;
+
+    .site-logo:hover {
+        opacity: 0.8;
+    }
+
+    .site-logo:active {
+        opacity: 0.6;
+    }
+    
+    &__container{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+}
